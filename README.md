@@ -2,8 +2,8 @@
 This project analyzes real-time wave and storm tide data from open Queensland Government sources. It demonstrates data ingestion from APIs, cleaning, visualization, and building risk indices for coastal monitoring.
 
 ### Repository Contents
-WaveData_Project.ipynb → Cleaned code-only notebook (all outputs removed to reduce file size).
-WaveData_Project.pdf → Report containing all key visualizations and insights.
+- **WaveData_Project.ipynb → Cleaned code-only notebook (all outputs removed to reduce file size).
+- **WaveData_Project.pdf → Report containing all key visualizations and insights.
 
 ### How to Run
 Clone this repository.
