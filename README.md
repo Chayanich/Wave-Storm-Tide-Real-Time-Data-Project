@@ -1,8 +1,15 @@
-This project used the data from open queensland goverment sources. 
+### About This Project
+This project analyzes real-time wave and storm tide data from open Queensland Government sources. It demonstrates data ingestion from APIs, cleaning, visualization, and building risk indices for coastal monitoring.
 
-### Overview
+### Repository Contents
+WaveData_Project.ipynb → Cleaned code-only notebook (all outputs removed to reduce file size).
+WaveData_Project.pdf → Report containing all key visualizations and insights.
 
-Developed a **real-time data analysis project** using wave and storm-tide sensor feeds from Queensland. Processed live data via API, built visualizations, and created **risk indices** to assess storm impact on coastal regions.
+### How to Run
+Clone this repository.
+Open WaveData_Project.ipynb in Jupyter Notebook or Jupyter Lab.
+Run all cells → visualizations and metrics will be generated.
+💡 Note: The PDF file is included for quick review if you prefer not to run the notebook.
 
 ---
 
